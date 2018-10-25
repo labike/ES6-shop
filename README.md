@@ -1,3 +1,7 @@
 ES6-shop
 
-The project from https://github.com/labike/mall-fe, syntax upgrade ES6
+syntax upgrade ES6
+
+fix some style
+
+remove some content
