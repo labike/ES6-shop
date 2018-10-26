@@ -44,7 +44,7 @@ const config = {
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: WEBPACK_ENV === 'dev' ? '/dist/' : '//s.happymmall.com/shop-demo/dist/',
+    publicPath: WEBPACK_ENV === 'dev' ? '/dist/' : '//os4team.cn/dist/',
     filename: 'js/[name].js'
   },
   resolve: {
