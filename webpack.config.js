@@ -142,7 +142,7 @@ const config = {
     },
     proxy: {
         '/': {
-            target: 'http://test.happymmall.com',
+            target: '',
             changeOrigin: true
         }
     }
